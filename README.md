@@ -31,4 +31,10 @@
   
   <a href="https://www.linkedin.com/in/juan-pablo-martins-3bb90a198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:juan.tentiomaru9309@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  ## Visitantes :eyes:
+<div align="center">
+  <img align="center" src="https://profile-counter.glitch.me/AndersonSilva94/count.svg" />
+</div>
+  // Ideia tirada do rei Anderson Silva
  
