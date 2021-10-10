@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Sou apenas um estudante louco para aprender coisas novas!!!
-> Apenas um relance dos meus projetos espero que goste
+> Muito Legal saber que estamos juntoa nessa !
 > E apenas um começo do que está por vir...
 
 
