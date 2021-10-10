@@ -34,7 +34,7 @@
   
   ## Visitantes :eyes:
 <div align="center">
-  <img align="center" src="https://profile-counter.glitch.me/AndersonSilva94/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/Parker9309/count.svg" />
 </div>
   // Ideia tirada do rei Anderson Silva
  
