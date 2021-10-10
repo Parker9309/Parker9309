@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Meu nome é Juan Pablo 👋
 
 ## Sou apenas um estudante louco para aprender coisas novas!!!
 > Muito Legal saber que estamos juntos nessa !
@@ -18,3 +18,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
+  
+  ## Meios de contato !
+  
+  <a href="https://www.linkedin.com/in/juan-pablo-martins-3bb90a198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
